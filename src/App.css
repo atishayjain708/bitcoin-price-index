@@ -1,8 +1,8 @@
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Bungee', cursive;
+  font-family: 'Goudy Bookletter 1911', cursive;
 }
 
-span.bungee { font-family: 'Bungee', cursive; }
+span.bungee { font-family: 'Gill Sans Extrabold, sans-serif', cursive; }
 
 .app {
   max-width: 720px;
@@ -10,8 +10,8 @@ span.bungee { font-family: 'Bungee', cursive; }
   text-align: center;
 }
 
-.header { font-size: 60px; font-family: 'Bungee', cursive; }
-.subheader { font-size: 20px; font-family: 'Bungee', cursive; }
+.header { font-size: 60px; font-family: 'Gill Sans Extrabold, sans-serif', cursive; }
+.subheader { font-size: 20px; font-family: 'Gill Sans Extrabold, sans-serif', cursive; }
 
 a.link {
   text-decoration: none;
